@@ -1,0 +1,15 @@
+C:\Users\Алексадра\Desktop\Практикумы\HomeLessons\HW_ex3\bin\Debug\net6.0\HW_ex3.exe
+C:\Users\Алексадра\Desktop\Практикумы\HomeLessons\HW_ex3\bin\Debug\net6.0\HW_ex3.deps.json
+C:\Users\Алексадра\Desktop\Практикумы\HomeLessons\HW_ex3\bin\Debug\net6.0\HW_ex3.runtimeconfig.json
+C:\Users\Алексадра\Desktop\Практикумы\HomeLessons\HW_ex3\bin\Debug\net6.0\HW_ex3.dll
+C:\Users\Алексадра\Desktop\Практикумы\HomeLessons\HW_ex3\bin\Debug\net6.0\HW_ex3.pdb
+C:\Users\Алексадра\Desktop\Практикумы\HomeLessons\HW_ex3\obj\Debug\net6.0\HW_ex3.csproj.AssemblyReference.cache
+C:\Users\Алексадра\Desktop\Практикумы\HomeLessons\HW_ex3\obj\Debug\net6.0\HW_ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексадра\Desktop\Практикумы\HomeLessons\HW_ex3\obj\Debug\net6.0\HW_ex3.AssemblyInfoInputs.cache
+C:\Users\Алексадра\Desktop\Практикумы\HomeLessons\HW_ex3\obj\Debug\net6.0\HW_ex3.AssemblyInfo.cs
+C:\Users\Алексадра\Desktop\Практикумы\HomeLessons\HW_ex3\obj\Debug\net6.0\HW_ex3.csproj.CoreCompileInputs.cache
+C:\Users\Алексадра\Desktop\Практикумы\HomeLessons\HW_ex3\obj\Debug\net6.0\HW_ex3.dll
+C:\Users\Алексадра\Desktop\Практикумы\HomeLessons\HW_ex3\obj\Debug\net6.0\refint\HW_ex3.dll
+C:\Users\Алексадра\Desktop\Практикумы\HomeLessons\HW_ex3\obj\Debug\net6.0\HW_ex3.pdb
+C:\Users\Алексадра\Desktop\Практикумы\HomeLessons\HW_ex3\obj\Debug\net6.0\HW_ex3.genruntimeconfig.cache
+C:\Users\Алексадра\Desktop\Практикумы\HomeLessons\HW_ex3\obj\Debug\net6.0\ref\HW_ex3.dll
